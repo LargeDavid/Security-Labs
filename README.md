@@ -31,4 +31,4 @@ across red team, blue team, and cloud security domains.
 - Microsoft AZ-500
 
 ## Connect
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/david-oyebajo-96921b27b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
